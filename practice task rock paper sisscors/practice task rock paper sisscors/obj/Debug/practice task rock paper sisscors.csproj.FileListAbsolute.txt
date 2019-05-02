@@ -1,0 +1,7 @@
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\bin\Debug\practice task rock paper sisscors.exe.config
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\bin\Debug\practice task rock paper sisscors.exe
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\bin\Debug\practice task rock paper sisscors.pdb
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\obj\Debug\practice task rock paper sisscors.csprojAssemblyReference.cache
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\obj\Debug\practice task rock paper sisscors.csproj.CoreCompileInputs.cache
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\obj\Debug\practice task rock paper sisscors.exe
+C:\Users\102570136\source\repos\practice task rock paper sisscors\practice task rock paper sisscors\obj\Debug\practice task rock paper sisscors.pdb
